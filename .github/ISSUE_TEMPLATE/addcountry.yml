@@ -1,0 +1,22 @@
+name: Add Country 
+description: Add new country
+title: "[add country]: Add <country name>"
+labels: [add country]
+body:
+  - type: input
+    id: country
+    attributes: 
+      label: Country name
+      description: Specify country source
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: More details
+    validations:
+      required: true
+  - type: input
+    id: Source 
+    attributes: 
+      label: Specify source
