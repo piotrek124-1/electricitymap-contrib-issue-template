@@ -6,6 +6,6 @@ body:
   - type: textarea
     id: info
     attributes:
-      label: More details
+      label: Details
     validations:
       required: true
