@@ -1,6 +1,6 @@
 name: Frontend
 description: Changes in Frontend
-title: "[Frontend] country name>"
+title: "[Frontend] "
 labels: [Frontend]
 body:
   - type: textarea
